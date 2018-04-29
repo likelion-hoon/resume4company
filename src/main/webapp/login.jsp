@@ -16,7 +16,7 @@
 	<link href="<c:url value="/css/bootstrap-theme.min.css" />" rel="stylesheet">
 	<script src="<c:url value="/js/bootstrap.min.js" />"></script>
 	
-	<!--  jquery 적 -->
+	<!--  jquery 적용 -->
 	<script src="<c:url value="/js/jquery-3.3.1.min.js" />"></script>
 	<title> 로그인 </title>
 	
